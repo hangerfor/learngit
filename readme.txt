@@ -4,5 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files
 test remote
 test branch dev
-aaa
 linux test conflict
+test conflict
